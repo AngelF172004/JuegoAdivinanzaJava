@@ -96,6 +96,8 @@ public class JuegoAdivinanzaJava {
 }
 
 Capturas del funcionamiento:
- 
+ ![image](https://github.com/user-attachments/assets/1bbfb33c-6ade-4583-b0a9-3c34ad218843)
+
+
  
  
